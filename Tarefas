@@ -1,0 +1,78 @@
+
+tarefa 2
+
+print('digite os limites do intervalo: ')
+a = int (input())
+b= int (input())
+if b<a:
+temp = a
+    a=b
+    n=temp
+    print('intervalo: ['a'],['b']')
+    _______________________________________________________________________
+    tarefa 3
+    
+    print('formas de equacao do seugudo grau')
+a= float(input('a = ')) 
+b= float(input('b = ')) 
+c= float(input('c = ')) 
+soma = b/a
+produto = c/a
+print('soma + produto')
+print('produto')
+________________________________________________________________________
+tarefa 4
+
+vel= float('velociidade do carro')
+
+if  vel > 80:
+    multa=(vel - 250)
+    print(f'multado por R$ ('multa')')
+     ___________________________________________________________________
+     tarefa 5
+     num = int(input('Numero:'))
+if num% 2==0:
+    print('par')
+else:  
+    print('impar')  
+    ____________________________________________________________________
+    
+    
+    tarefa6 
+    
+    n = 20 
+m = 10
+
+if n-m>0:
+    n = m -n 
+else:
+    n = m-n
+    print(n,m)
+    
+    ______________________________________________________________________
+    
+    Tarefa 7 :
+    
+    n = 4
+if n %2==0:
+ m = n *2
+else: 
+   n = m + 1
+   n = m *2
+print(n,m) 
+
+________________________________________________________________________
+
+Tarefa 8 :
+
+nota1_= float(input('meta1: '))
+nota2_= float(input('meta2: '))
+media= nota1_/nota2_
+if media >= 7:
+    print('aprvado') 
+else:
+    print('reprovado') 
+_________________________________________________________________________
+
+Tarefa 9 :
+
